@@ -73,7 +73,7 @@ The database seeds with:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/raceday.git
+git clone https://github.com/Thabang002/PROG6212_A1.git
 cd raceday
 ```
 
@@ -132,9 +132,4 @@ SELECT * FROM Enrolments WITH (NOLOCK);
 - Input validation for all user inputs
 - SQL injection protection (use parameterized queries)
 
-##  Contact
-For questions or clarifications:
-- Project Lead: [Your Name]
-- Email: [your.email@institution.edu]
 
----
