@@ -132,4 +132,6 @@ SELECT * FROM Enrolments WITH (NOLOCK);
 - Input validation for all user inputs
 - SQL injection protection (use parameterized queries)
 
+## CI workflow Screenshot
+![image alt](https://github.com/Thabang002/PROG6212_A1/blob/feb1d0201eb75abe8c463d6c74da892f751a3827/docs/Screenshot%202026-09-04%20233231.png)
 
